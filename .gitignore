@@ -1,0 +1,10 @@
+# Fichiers Java/Maven/IDE
+.m2/
+target/
+.vscode/
+
+# Fichiers OS
+.DS_Store
+
+# Fichiers temporaires
+*~
